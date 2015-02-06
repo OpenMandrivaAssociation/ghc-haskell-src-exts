@@ -4,7 +4,7 @@
 Summary:	Manipulating Haskell source: abstract syntax, lexer, parser, and pretty-printer
 Name:		ghc-%{module}
 Version:	1.14.0.1
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Other
 Url:		http://hackage.haskell.org/package/%{module}
